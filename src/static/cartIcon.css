@@ -1,0 +1,15 @@
+/* Hide the cart icon by default */
+.cart-icon {
+	display: none;
+}
+
+/* Show the cart icon when viewport width is less than 992px */
+@media (max-width: 992px) {
+	.cart-icon {
+		display: block;
+		position: fixed;
+		bottom: 10px;
+		right: 10px;
+		z-index: 999;
+	}
+}

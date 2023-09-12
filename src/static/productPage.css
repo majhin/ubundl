@@ -1,0 +1,23 @@
+.bgproductPage {
+	background: #4b79a1; /* fallback for old browsers */
+	background: -webkit-linear-gradient(
+		to bottom,
+		#283e51,
+		#4b79a1
+	); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #283e51, #4b79a1);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+@media (max-width: 1400px) {
+	.container {
+		margin-top: 20px !important; /* Apply mt-xxl-5 as the top margin */
+	}
+}
+
+@media (min-width: 1400px) {
+	.container {
+		margin-top: 20px !important; /* Apply mt-xxl-5 as the top margin */
+	}
+}

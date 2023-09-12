@@ -1,0 +1,43 @@
+.custom-navbar {
+	background-image: linear-gradient(
+		174.2deg,
+		rgba(255, 244, 228, 1) 7.1%,
+		rgba(240, 246, 238, 1) 67.4%
+	);
+	width: 99%;
+	position: relative;
+	top: 5px;
+	left: 5px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+
+.custom-navbar .navbar-brand {
+	color: #ff0000;
+}
+
+.custom-navbar .navbar-nav .nav-link {
+	color: #654321;
+}
+
+.custom-navbar .navbar-toggler-icon {
+	/* background-color: #ffffff; */
+	background-image: url("/Add_square.svg");
+}
+
+.custom-navbar .navbar-collapse {
+	justify-content: space-around;
+}
+
+.logo {
+	height: 28px;
+	width: 80px;
+}
+
+.btnNav {
+	height: 35px;
+	width: 35px;
+	border: none;
+	background: none;
+	border-radius: 50%;
+}

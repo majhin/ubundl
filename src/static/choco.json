@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Choco-Nutty Surprise",
+    "price": 3.99,
+    "description": "Our chocolate with nuts that'll leave you nutty!",
+    "image": "/c1.webp",
+    "star": 4.3
+  },
+  {
+    "id": 1,
+    "name": "Caramel Chaos Bar",
+    "price": 4.49,
+    "description": "Caramel so gooey, it'll stick to your funny bone!",
+    "image": "/c2.webp",
+    "star": 3.8
+  },
+  {
+    "id": 2,
+    "name": "SarcastiChoc",
+    "price": 2.99,
+    "description": "Sarcastic chocolate that's almost as sweet as you!",
+    "image": "/c2.webp",
+    "star": 5.0
+  },
+  {
+    "id": 3,
+    "name": "Minty Mayhem",
+    "price": 3.79,
+    "description": "Mint chocolate that'll make you mint your words!",
+    "image": "/c2.webp",
+    "star": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Funky Monkey Chocolate",
+    "price": 4.29,
+    "description": "Chocolate as funky as a disco-dancing monkey!",
+    "image": "/c3.webp",
+    "star": 5.0
+  },
+  {
+    "id": 5,
+    "name": "Choco-licious Laughter",
+    "price": 2.49,
+    "description": "The chocolate that laughs with you!",
+    "image": "/c1.webp",
+    "star": 4.1
+  },
+  {
+    "id": 6,
+    "name": "Crazy Caramel Crunch",
+    "price": 3.69,
+    "description": "Crunchy, crazy, and caramelized to perfection!",
+    "image": "/c3.webp",
+    "star": 3.7
+  },
+  {
+    "id": 7,
+    "name": "Witty White Chocolate",
+    "price": 4.59,
+    "description": "White chocolate so witty, it tells dad jokes!",
+    "image": "/c1.webp",
+    "star": 4.9
+  },
+  {
+    "id": 8,
+    "name": "Nutty Professor Truffle",
+    "price": 3.89,
+    "description": "For the chocolate connoisseur with a PhD in nuttiness!",
+    "image": "/c2.webp",
+    "star": 4.2
+  },
+  {
+    "id": 9,
+    "name": "Snickering Snickers",
+    "price": 2.79,
+    "description": "It's Snickers, but it's secretly laughing at you!",
+    "image": "snickering-snickers.jpg",
+    "star": 3.0
+  },
+  {
+    "id": 10,
+    "name": "Choc-o-licious Delight",
+    "price": 4.39,
+    "description": "Pure choc-o-licious delight in every bite!",
+    "image": "choco-delight.jpg",
+    "star": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Giggly Hazelnut Bonanza",
+    "price": 3.49,
+    "description": "Hazelnuts that'll have you giggling all day!",
+    "image": "giggly-hazelnut.jpg",
+    "star": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Peanut Butter Pandemonium",
+    "price": 4.79,
+    "description": "Peanut butter so chaotic, it's borderline illegal!",
+    "image": "peanut-pandemonium.jpg",
+    "star": 5.0
+  },
+  {
+    "id": 13,
+    "name": "Chocoholic's Revenge",
+    "price": 2.69,
+    "description": "The chocolate that gets back at chocoholics!",
+    "image": "chocoholic-revenge.jpg",
+    "star": 2.8
+  },
+  {
+    "id": 14,
+    "name": "Ridiculous Raspberry Truffle",
+    "price": 3.99,
+    "description": "Raspberry truffle so ridiculous, it defies gravity!",
+    "image": "raspberry-truffle.jpg",
+    "star": 4.8
+  }
+]
