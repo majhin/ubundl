@@ -1,5 +1,6 @@
 {
   "name": "unbundl",
+  "homepage": "https://majhin.github.io/go-kart/#",
   "private": true,
   "version": "0.0.0",
   "type": "module",
