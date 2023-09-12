@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, HashRouter, Route, Routes } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import Homepage from "./components/HomePage";
@@ -35,7 +35,7 @@ function App() {
 	return (
 		<>
 			<Alert />
-			<BrowserRouter basename='/'>
+			<HashRouter basename='/'>
 				<CustomNav />
 				<Routes>
 					<Route path='/' Component={Homepage} />
@@ -43,7 +43,7 @@ function App() {
 					<Route path='/cart' Component={CartPage} />
 				</Routes>
 				<CartIcon />
-			</BrowserRouter>
+			</HashRouter>
 		</>
 	);
 }
